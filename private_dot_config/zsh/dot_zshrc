@@ -35,12 +35,12 @@ plugins=(aliases alias-finder alias-tips command-not-found debian git vscode zsh
 #>>> SECTION: Aliases
 #> OMZ
 alias zrl="omz reload"
-alias zfg="code ~/.config/zsh/.zshrc"
-alias ztg="code ~/.config/zsh/custom/themes/stu.zsh-theme"
+alias zfg="code -w ~/.config/zsh/.zshrc"
+alias ztg="code -w ~/.config/zsh/custom/themes/stu.zsh-theme"
 alias zgtt="cd ~/.config/zsh/custom/themes/"
 alias zgtp="cd ~/.config/zsh/custom/plugins/"
 #> Alacritty
-alias afg="code ~/.config/alacritty/alacritty.yml"
+alias afg="code -w ~/.config/alacritty/alacritty.yml"
 #> NALA
 alias apt="sudo nala"
 alias n="nala"
@@ -53,11 +53,11 @@ alias cm="chezmoi"
 alias cma="chezmoi add"
 alias cme="chezmoi edit"
 alias cmc="chezmoi cd"
-#> Shorts
-alias cf="cd ~; clear; fortune -e"
-alias c="code"
+#> Terminal
 alias x="exit"
+alias cf="cd ~; clear; fortune -e"
 #> Apps
+alias c="code"
 alias stufetch="./freshfetch/usr/bin/freshfetch"
 
 #>>> SECTION: Optional
