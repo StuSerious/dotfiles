@@ -6,3 +6,5 @@ ZDOTDIR=$HOME/.config/zsh
 
 path+=('/home/stu/bin')
 export PATH
+
+#comment

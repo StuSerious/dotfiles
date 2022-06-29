@@ -48,8 +48,11 @@ alias nh="nala history"
 alias ns="nala search"
 alias ni="sudo nala install"
 alias nu="sudo nala upgrade -y"
-#> LSD
-
+#> Chezmoi
+alias cm="chezmoi"
+alias cma="chezmoi add"
+alias cme="chezmoi edit"
+alias cmc="chezmoi cd"
 #> Shorts
 alias cf="cd ~; clear; fortune -e"
 alias c="code"
