@@ -53,6 +53,8 @@ alias cm="chezmoi"
 alias cma="chezmoi add"
 alias cme="chezmoi edit"
 alias cmc="chezmoi cd"
+#> GitMoji
+alias gmc="gitmoji -c"
 #> Terminal
 alias x="exit"
 alias cf="cd ~; clear; fortune -e"
