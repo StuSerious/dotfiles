@@ -4,5 +4,6 @@
     "workbench.sideBar.location": "right",
     "editor.fontFamily": "FiraCode Nerd Font Mono",
     "editor.minimap.enabled": false,
-    "workbench.activityBar.location": "top"
+    "workbench.activityBar.location": "top",
+    "git.openRepositoryInParentFolders": "never"
 }
