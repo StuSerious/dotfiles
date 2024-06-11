@@ -1,0 +1,8 @@
+{
+    "window.customTitleBarVisibility": "auto",
+    "window.commandCenter": false,
+    "workbench.sideBar.location": "right",
+    "editor.fontFamily": "FiraCode Nerd Font Mono",
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.location": "top"
+}
